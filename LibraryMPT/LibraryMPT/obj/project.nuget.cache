@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFvhakqFa3fPlIkkQeFunCI8qbod9EhVmRJ+w0wP53QxE+yibXAR+I5N/gzRqdPKL8oV7DBb9HKtO1n5FZbMCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\LibraryMPT\\LibraryMPT\\LibraryMPT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
